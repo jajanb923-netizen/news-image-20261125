@@ -1,6 +1,6 @@
-[![news-image-20261125](https://make.fun/badges/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125)
-[![rank](https://make.fun/badges/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125)
-[![reward](https://make.fun/badges/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125)
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/jajanb923-netizen/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/jajanb923-netizen/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
 # news-image-20261125 — THE WORLD, Wednesday 25 November 2026
 
@@ -22,8 +22,8 @@ bounty, $100 in USDC.
 ## Files
 
 - `main.py` — entrypoint (Python 3.13 stdlib only): copies `entry.png`
-  to `$MAKEFUN_OUTPUT_DIR/entry.png` (default `/output`) and verifies the
-  written file byte for byte.
+to `$MAKEFUN_OUTPUT_DIR/entry.png` (default `/output`) and verifies the
+written file byte for byte.
 - `entry.png` — the image, 1024×1024, 113,924 bytes.
 - `draw.py` — the Pillow script that draws `entry.png`; three layout
-  variants were built and compared, the hero-lead version won.
+variants were built and compared, the hero-lead version won.
