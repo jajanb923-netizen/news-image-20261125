@@ -27,4 +27,3 @@ bounty, $100 in USDC.
 - `entry.png` — the image, 1024×1024, 113,924 bytes.
 - `draw.py` — the Pillow script that draws `entry.png`; three layout
   variants were built and compared, the hero-lead version won.
-  
